@@ -29,6 +29,17 @@ body {
 	display: none;
 }
 
+/* CUSTOM */
+
+.mark{
+	font-family: lato;
+	color: #c35340;
+}
+
+
+
+
+
 /* Page Loader */
 .js .loading::before {
 	content: '';
